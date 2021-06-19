@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerearth_logo_icon_145208.png" width="20px">](https://www.hackerearth.com/@saquib26)
 
 - 😄 Pronouns: He/His
-
+<!-- <img align="right" alt="GIF" src="https://github.com/saquib77/saquib77/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 ## ⚡ Technologies
 
  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) 
@@ -40,3 +40,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saquib77.saquib77)
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saquib77&show_icons=true&theme=gotham" alt="saquib77" />
