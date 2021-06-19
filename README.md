@@ -2,13 +2,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Desktop Aplication Developer
-- 🌱 I’m currently learning to improve C/C++
+- 🔭 I’m currently working on to improve my coding skills.
+- 🌱 I’m currently learning to improve my technical skills
 - 👯 I’m looking to collaborate on Open-Source Project Based on C/C++.
 - 🤔 I’m looking for help with Java Web Application Development.
-- 💬 Ask me about C/C++ Desktop Applications.
-- 📫 How to reach me: Email : chand567khan@gmail.com
-- 🔭 Coding Profiles : [Leetcode- @saquib_7](https://leetcode.com/saquib_7/) [CodeChef - @saquib_77_7](https://www.codechef.com/users/saquib_77_7)
+- 💬 Ask me about C/C++ Data Structure , Database , Linux.
+- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-chand567khan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chand567khan@gmail.com)](mailto:chand567khan@gmail.com)
+- 🔭 Coding Profiles : 
+[<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="80px">](https://leetcode.com/saquib_7/) 
+[<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" width="80px">](https://www.codechef.com/users/saquib_77_7)
+[<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" width="80px">](https://www.hackerrank.com/chand567khan)
+[<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerearth_logo_icon_145208.png" width="20px">](https://www.hackerearth.com/@saquib26)
+
 - 😄 Pronouns: He/His
 
 ## ⚡ Technologies
@@ -23,6 +28,8 @@ Here are some ideas to get you started:
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+ ![Ubuntu](https://img.shields.io/ubuntu/v/ubuntu-wallpapers?style=for-the-badge)
+ 
 
 
 ## ⚡ Socials
