@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on to improve my problem solving skills.
 - 🌱 I’m currently learning to improve my technical skills
-- 👯 I’m looking to collaborate on Open-Source Project Based on C/C++.
+- 👯 I’m looking to collaborate on Open-Source Project Based on C/C++/Java.
 - 🤔 I’m looking for help with Java Web Application Development.
 - 💬 Ask me about C/C++ Data Structure , Database , Linux.
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-chand567khan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chand567khan@gmail.com)](mailto:chand567khan@gmail.com)
