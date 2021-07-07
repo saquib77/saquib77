@@ -1,6 +1,6 @@
 ### Hi , I'm Saquib Ahmed <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" width="30px">
 
-- 🔭 I’m currently working on to improve my coding skills.
+- 🔭 I’m currently working on to improve my problem solving skills.
 - 🌱 I’m currently learning to improve my technical skills
 - 👯 I’m looking to collaborate on Open-Source Project Based on C/C++.
 - 🤔 I’m looking for help with Java Web Application Development.
