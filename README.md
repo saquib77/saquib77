@@ -40,6 +40,9 @@
 ## ⚡ Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saquib77.saquib77)
 
+📈 Most Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saquib77&theme=tokyonight)
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saquib77&show_icons=true&theme=gotham" alt="saquib77" />
