@@ -41,8 +41,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saquib77.saquib77)
 
 📈 Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saquib77&theme=tokyonight)
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib77&theme=tokyonight" alt="saquib77" />
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saquib77&show_icons=true&theme=gotham" alt="saquib77" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=saquib77&show_icons=true&theme=gotham" alt="saquib77" />
