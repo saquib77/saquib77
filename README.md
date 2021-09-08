@@ -28,6 +28,7 @@
  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
  ![Ubuntu](https://img.shields.io/ubuntu/v/ubuntu-wallpapers?style=for-the-badge)
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
 
 
