@@ -43,5 +43,5 @@
 ## 📈 Most Used Language && Stat
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib77&theme=tokyonight" alt="saquib77" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=saquib77&show_icons=true&theme=gotham" alt="saquib77" />
+<p float="left"> <img src="https://github-readme-stats.vercel.app/api?username=saquib77&show_icons=true&theme=gotham" alt="saquib77" />
 
