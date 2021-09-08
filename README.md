@@ -19,6 +19,7 @@
  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) 
  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
  ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
+ ![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) 
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
