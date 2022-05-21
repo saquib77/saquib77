@@ -1,10 +1,9 @@
 ### Hi , I'm Saquib Ahmed <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" width="30px">
 
-- 🔭 I’m currently working on to improve my problem solving skills.
-- 🌱 I’m currently learning to improve my technical skills
-- 👯 I’m looking to collaborate on Open-Source Project Based on C/C++/Java.
-- 🤔 I’m looking for help with Java Web Application Development.
-- 💬 Ask me about C/C++ Data Structure , Database , Linux.
+- 🔭 I’m currently working as a associate software engineer(back end) at BigOh Tech Pvt Ltd,Noida(India)
+- 🌱 I’m currently working on product BotShot(botshot.ai)
+- 👯 I’m working on to improve my technical skill and currently learning devops technologies.
+- 💬 Ask me about Java,Spring Boot,Spring Hibernate,Spring Cloud,Spring Data JPA, Data Structure , Database , Linux.
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-chand567khan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chand567khan@gmail.com)](mailto:chand567khan@gmail.com)
 - 🔭 Coding Profiles : 
 [<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="80px">](https://leetcode.com/saquib_7/) 
