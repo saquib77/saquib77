@@ -33,7 +33,7 @@
  ![Github Followers](https://img.shields.io/github/followers/saquib77?style=social) 
  [![Linkedin Badge](https://img.shields.io/badge/-SaquibAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saquib-ahmed-b10448143/)](https://www.linkedin.com/in/saquib-ahmed-b10448143/) 
  [![Gmail Badge](https://img.shields.io/badge/-chand567khan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chand567khan@gmail.com)](mailto:chand567khan@gmail.com)
- [![Instagram Badge](https://img.shields.io/badge/-sudo_demon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sa_quib__/)](https://instagram.com/sa_quib__)
+ [![Instagram Badge](https://img.shields.io/badge/-sa_quib__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sa_quib__/)](https://instagram.com/sa_quib__)
 
 ## ⚡ Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saquib77.saquib77)
