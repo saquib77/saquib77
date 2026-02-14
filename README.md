@@ -1,6 +1,6 @@
 ### Hi , I'm Saquib Ahmed <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" width="30px">
 
-- 👯 I’m working on to improve my technical skill and currently learning devops technologies.
+- 👯 Hey! Stranger Please feel free to reach out to me for any Backend related discussion!.
 - 💬 Ask me about Java,Spring Boot,Spring Hibernate,Spring Cloud,Spring Data JPA, Data Structure , Database , Linux.
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-chand567khan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chand567khan@gmail.com)](mailto:chand567khan@gmail.com)
 - 🔭 Coding Profiles : 
@@ -33,7 +33,7 @@
  ![Github Followers](https://img.shields.io/github/followers/saquib77?style=social) 
  [![Linkedin Badge](https://img.shields.io/badge/-SaquibAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saquib-ahmed-b10448143/)](https://www.linkedin.com/in/saquib-ahmed-b10448143/) 
  [![Gmail Badge](https://img.shields.io/badge/-chand567khan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chand567khan@gmail.com)](mailto:chand567khan@gmail.com)
- [![Instagram Badge](https://img.shields.io/badge/-sudo_demon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sudo_demon/)](https://instagram.com/sudo_demon)
+ [![Instagram Badge](https://img.shields.io/badge/-sudo_demon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sa_quib__/)](https://instagram.com/sa_quib__)
 
 ## ⚡ Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saquib77.saquib77)
